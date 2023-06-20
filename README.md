@@ -40,10 +40,10 @@ The code imports files from 3 CSV files as data source. The model output generat
 The following charts are output from the FB prophet model. 
 
 Figure 1 shows the search trends forecast from the prophet model.
-![mercado search trends](/images/mercadotrendscomponents.png)
+![mercado search trends](/images/mercadosearchtrends.png)
 
 Figure 2 shows the components of the search trends, highlighting the day of week, time of day, and time of year, trends for mercado searchs
-![mercado search trends components](/images/mercadosalestrendscomponents.png)
+![mercado search trends components](/images/mercadotrendscomponents.png)
 
 ### Search Trends Summary
 Question: What time of day exhibits the greatest popularity?
