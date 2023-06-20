@@ -25,9 +25,18 @@ Historical data and challenge questions provided by Columbia FinTech progam.
 Analysis, code, and conclusions completed by Sean Senhouse
 
 ## Installation Guide
-To run this project you would need to use google colab. Use the link below to launch google colab
+To run this project you would need to use google colab. Use the link below to launch google colab and view linking instructions
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiji14/deepbedmap/]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+
+To run the file in Google Colab use the following link
+[![link to notebook](https://colab.research.google.com/drive/15aFjji9XvDATQqPau7Vq7yiP5Si25ROI?usp=sharing)
+
+## Usage
+
+The code imports files from 3 CSV files as data source. The model output generates several charts to summarize the report. 
+
+
 
 
 
